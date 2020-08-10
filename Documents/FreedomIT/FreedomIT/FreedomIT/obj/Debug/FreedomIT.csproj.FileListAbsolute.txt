@@ -1,0 +1,13 @@
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\bin\Debug\FreedomIT.exe.config
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\bin\Debug\FreedomIT.exe
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\bin\Debug\FreedomIT.pdb
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.csprojAssemblyReference.cache
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.Form1.resources
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.Form2.resources
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.Properties.Resources.resources
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.csproj.GenerateResource.cache
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.csproj.CoreCompileInputs.cache
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.exe
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.pdb
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.Form3.resources
+C:\Users\zmmol\Documents\FreedomIT\FreedomIT\FreedomIT\obj\Debug\FreedomIT.Form4.resources
